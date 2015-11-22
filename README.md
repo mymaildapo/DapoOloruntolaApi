@@ -1,10 +1,14 @@
-# BookProject
+# Library 
 ** by Dapo Oloruntola **
 Here are a few short sentences about my project.
-Using Yeoman it display data in cool way for the web user to changes the details from server Api.
-node server-Run the Api Server
+Using Yeoman it display data in cool way for the web user. Getting all the data from server Api.
+node server will Run the Api Server
 
-Grunt serve for Yeoman to lunch then direct from the server Api the yeoman get all the data from mongo database by using moongoose module.
+Grunt serve- will o lunch yeoman then direct from the server Api the yeoman get all the data from mongo database by using mongoose module.
+
+insert the data to mongo database.
+e.g
+mongoimport the database to mongodb.
 
 
 ## Datasets 
@@ -28,4 +32,4 @@ I used yeoman for front end. where the admin can post,get,put, delete any of the
 
 
 then grunt serve open the yeoman server where the front end is display
-Listening at 3001/ galway.
+Listening at 3001 
