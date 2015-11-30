@@ -88,4 +88,5 @@ you need to install yeoman bower and grunt on your computer!
 
 References
 https://github.com/mgonto/restangular
-
+https://anmolkoul.wordpress.com/2015/06/05/interactive-data-visualization-using-d3-js-dc-js-nodejs-and-mongodb/
+https://www.youtube.com/watch?v=OhPFgqHz68o
