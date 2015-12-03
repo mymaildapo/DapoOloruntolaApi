@@ -1,156 +1,149 @@
 [
   {
-    "FIELD1":"town",
-    "FIELD2":"name",
-    "FIELD3":"address",
-    "FIELD4":"phone",
-    "FIELD5":"toilet"
+    "phone": "+353 (0) 83 3959860",
+    "name": "Ballyfermot Library",
+    "address": "Ballyfermot Road D.10",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "yes"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Ballyfermot Library",
-    "FIELD3":"Ballyfermot Road D.10",
-    "FIELD4":"+353 (0) 83 3959860",
-    "FIELD5":"yes"
+    "phone": "+353 (0) 91 845592",
+    "name": "Ballymun Library",
+    "address": "Ballymun Road D.9",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "yes"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Ballymun Library",
-    "FIELD3":"Ballymun Road D.9 ",
-    "FIELD4":"+353 (0) 91 845592",
-    "FIELD5":"yes"
+    "phone": "+353 (0) 90 9749200",
+    "name": "Cabra Library",
+    "address": "Navan Road D. 7",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "yes"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Cabra Library",
-    "FIELD3":"Navan Road D. 7",
-    "FIELD4":"+353 (0) 90 9749200",
-    "FIELD5":"yes"
+    "phone": "+353 (0) 99 20937",
+    "name": "Central Library, Ilac",
+    "address": "Ilac Centre, Dublin 1",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "no"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Central Library, Ilac",
-    "FIELD3":"Ilac Centre, Dublin 1",
-    "FIELD4":"+353 (0) 99 20937",
-    "FIELD5":"no"
+    "phone": "+353 (0) 93 24287",
+    "name": "Charleville Mall Library",
+    "address": "Charleville Mall Dublin 3",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "no"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Charleville Mall Library",
-    "FIELD3":"Charleville Mall Dublin 3",
-    "FIELD4":"+353 (0) 93 24287",
-    "FIELD5":"no"
+    "phone": "+353 (0) 95 42920",
+    "name": "Coolock Library",
+    "address": "Barryscourt Road Dublin 17",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "no"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Coolock Library",
-    "FIELD3":"Barryscourt Road Dublin 17",
-    "FIELD4":"+353 (0) 95 42920",
-    "FIELD5":"no"
+    "phone": "+353 (0) 91 380590",
+    "name": "Dolphins Barn Library",
+    "address": "Parnell Road, D 12",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "no"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Dolphins Barn Library",
-    "FIELD3":"Parnell Road, D 12",
-    "FIELD4":"+353 (0) 91 380590",
-    "FIELD5":"no"
+    "phone": "+353 (0) 93 36406",
+    "name": "Donaghmede Library",
+    "address": "Donaghmede Shopping Centre, D 13",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "no"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Donaghmede Library",
-    "FIELD3":"Donaghmede Shopping Centre, D 13 ",
-    "FIELD4":"+353 (0) 93 36406",
-    "FIELD5":"no"
+    "phone": "+353 (0) 90 9675056",
+    "name": "Drumcondra Library",
+    "address": "Milmount Ave, Dublin 9",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "yes"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Drumcondra Library",
-    "FIELD3":"Milmount Ave, Dublin 9",
-    "FIELD4":"+353 (0) 90 9675056",
-    "FIELD5":"yes"
+    "phone": "+353 90 9741261",
+    "name": "Dublin City Library & Archive",
+    "address": "138-144 Pearse Street Dublin 2",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "yes"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Dublin City Library & Archive",
-    "FIELD3":"138-144 Pearse Street Dublin 2",
-    "FIELD4":"+353 90 9741261",
-    "FIELD5":"yes"
+    "phone": "+353 (0) 90 6624919",
+    "name": "Finglas Library",
+    "address": "Finglas Shopping Centre, Jamestown Road, D. 11",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "no"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Finglas Library",
-    "FIELD3":"Finglas Shopping Centre, Jamestown Road, D. 11",
-    "FIELD4":"+353 (0) 90 6624919",
-    "FIELD5":"no"
+    "phone": "+353 (0) 93 38923",
+    "name": "Inchicore Library",
+    "address": "34 Emmet Road, D. 8",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "no"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Inchicore Library",
-    "FIELD3":"34 Emmet Road, D. 8",
-    "FIELD4":"+353 (0) 93 38923",
-    "FIELD5":"no"
+    "phone": "+353 (0) 95 21092",
+    "name": "Kevin Street Library",
+    "address": "18 Lower Kevin Street, Dublin 8",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "no"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Kevin Street Library",
-    "FIELD3":"18 Lower Kevin Street, Dublin 8",
-    "FIELD4":"+353 (0) 95 21092",
-    "FIELD5":"no"
+    "phone": "+353 (0) 91 504028",
+    "name": "Marino Library",
+    "address": "14-20 Marino Mart D. 3",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "no"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Marino Library",
-    "FIELD3":"14-20 Marino Mart D. 3",
-    "FIELD4":"+353 (0) 91 504028",
-    "FIELD5":"no"
+    "phone": "+353 (0) 90 9643464",
+    "name": "Pembroke Library",
+    "address": "Anglesea Road, Dublin 4",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "yes"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Pembroke Library",
-    "FIELD3":"Anglesea Road, Dublin 4 ",
-    "FIELD4":"+353 (0) 90 9643464",
-    "FIELD5":"yes"
+    "phone": "+353 (0) 90 9679072",
+    "name": "Phibsboro Library",
+    "address": "Blacquire Bridge, Dublin 7",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "no"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Phibsboro Library",
-    "FIELD3":"Blacquire Bridge, Dublin 7 ",
-    "FIELD4":"+353 (0) 90 9679072",
-    "FIELD5":"no"
+    "phone": "+353 (0) 91 847220",
+    "name": "Raheny Library",
+    "address": "Howth Road Dublin 5",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "yes"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Raheny Library",
-    "FIELD3":"Howth Road Dublin 5",
-    "FIELD4":"+353 (0) 91 847220",
-    "FIELD5":"yes"
+    "phone": "+353 (0) 91 792117",
+    "name": "Rathmines Library",
+    "address": "157 Lower Rathmines Road, D. 6",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "yes"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Rathmines Library",
-    "FIELD3":"157 Lower Rathmines Road, D. 6",
-    "FIELD4":"+353 (0) 91 792117",
-    "FIELD5":"yes"
+    "phone": "+353 (0) 91 595733",
+    "name": "Ringsend Library Library",
+    "address": "Fitzwilliam Street D. 4",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "no"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Ringsend Library Library",
-    "FIELD3":"Fitzwilliam Street D. 4",
-    "FIELD4":"+353 (0) 91 595733",
-    "FIELD5":"no"
+    "phone": "+353 (0) 91 631224",
+    "name": "Terenure Library",
+    "address": "Templeogue Road, Dublin 6",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "no"
   },
   {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Terenure Library",
-    "FIELD3":"Templeogue Road, Dublin 6",
-    "FIELD4":"+353 (0) 91 631224",
-    "FIELD5":"no"
-  },
-  {
-    "FIELD1":"DUBLIN COUNTY COUNCIL",
-    "FIELD2":"Walkinstown Library",
-    "FIELD3":"Percy French Road, Dublin 12",
-    "FIELD4":"+353 (0) 91 631225",
-    "FIELD5":"yes"
+    "phone": "+353 (0) 91 631225",
+    "name": "Walkinstown Library",
+    "address": "Percy French Road, Dublin 12",
+    "town": "DUBLIN COUNTY COUNCIL",
+    "toilet": "yes"
   }
 ]
